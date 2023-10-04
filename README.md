@@ -1,5 +1,6 @@
-# Nome do projeto
-Escreva um ou dois  parágrafo resumindo o objetivo do seu projeto.
+# Search Pet
+SearchPet nasceu com o objetivo de suprir as necessidades das ONG’s e de facilitar a busca e acesso à informação para pessoas que possuem interesse em adotar e/ou apadrinhar. 
+É tudo sobre fazer a diferença na vida dos animais e nas vidas das pessoas que os adotam.
 
 ## Alunos integrantes da equipe
 
@@ -11,8 +12,8 @@ Escreva um ou dois  parágrafo resumindo o objetivo do seu projeto.
 
 ## Professores responsáveis
 
-* Nome completo do professor 1
-* Nome completo do professor 2
+* Gabriel Barbosa da Fonseca
+
 
 ## Instruções de utilização
 
