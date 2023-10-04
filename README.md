@@ -8,7 +8,7 @@ SearchPet nasceu com o objetivo de suprir as necessidades das ONG’s e de facil
 * Jonathan Faulkner Assis da Silva
 * Yago Marques Freitas de Oliveira
 * João Gabriel Montanari Pacheco
-* Gabriela
+* Gabriela almeida de oliveira lima
 
 ## Professores responsáveis
 
