@@ -6,6 +6,7 @@ SearchPet nasceu com o objetivo de suprir as necessidades das ONG’s e de facil
 
 * Ingrid Mendes Martins Correa
 * Jonathan Faulkner Assis da Silva
+* Ana Clara de Souza
 * Yago Marques Freitas de Oliveira
 * João Gabriel Montanari Pacheco
 * Gabriela almeida de oliveira lima
