@@ -3,9 +3,10 @@ Escreva um ou dois  parágrafo resumindo o objetivo do seu projeto.
 
 ## Alunos integrantes da equipe
 
-*Ingrid Mendes Martins Correa
-*Jonathan Faulkner Assis da Silva
-*Yago Marques Freitas de Oliveira
+* Ingrid Mendes Martins Correa
+* Jonathan Faulkner Assis da Silva
+* Yago Marques Freitas de Oliveira
+* João Gabriel Montanari Pacheco
 * Nome completo do aluno 4
 
 ## Professores responsáveis
