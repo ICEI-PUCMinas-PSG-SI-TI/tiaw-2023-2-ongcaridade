@@ -9,6 +9,7 @@ SearchPet nasceu com o objetivo de suprir as necessidades das ONG’s e de facil
 * Ana Clara de Souza
 * Yago Marques Freitas de Oliveira
 * João Gabriel Montanari Pacheco
+* Maria Luiza de Oliveira
 * Gabriela almeida de oliveira lima
 
 ## Professores responsáveis
