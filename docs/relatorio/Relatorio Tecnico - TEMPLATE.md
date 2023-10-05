@@ -123,7 +123,7 @@ Requisitos Funcionais:
     • A página inicial deve contar com ONGs mais procuradas.
 
 
-## Requisitos não funcionais:
+ Requisitos não funcionais:
     • Manutenção e atualização. (Manutenção diária)
     • O site deve achar em até poucos segundos as ONGs disponíveis na localidade solicitada.
     • O site deve contar com à acessibilidade para todas as idades, deve ser intuitivo e de fácil
