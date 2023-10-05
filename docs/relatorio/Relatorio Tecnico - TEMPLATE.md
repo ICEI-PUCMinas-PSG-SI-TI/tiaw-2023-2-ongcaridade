@@ -89,7 +89,7 @@ HISTÓRIA DE USUÁRIOS:
 
 ![persona 1 - parte 2](https://github.com/ICEI-PUCMinas-PSG-SI-TI/tiaw-2023-2-ongcaridade/assets/146226875/773a0684-011b-4ec2-991d-4d0d3323c437)
 
-# Persona 1
+# Persona 2
 ![persona 2 - parte 1](https://github.com/ICEI-PUCMinas-PSG-SI-TI/tiaw-2023-2-ongcaridade/assets/146226875/65bef400-8a64-4bbc-8fc7-9cd26ebbd0b0)
 ![persona 2 - parte 2](https://github.com/ICEI-PUCMinas-PSG-SI-TI/tiaw-2023-2-ongcaridade/assets/146226875/ea9f5e88-c0b8-49d8-b5a7-1050c7773c57)
 
@@ -125,26 +125,13 @@ Requisitos Funcionais:
 
 ## Requisitos não funcionais:
     • Manutenção e atualização. (Manutenção diária)
-
-
     • O site deve achar em até poucos segundos as ONGs disponíveis na localidade solicitada.
-
-
     • O site deve contar com à acessibilidade para todas as idades, deve ser intuitivo e de fácil
 manuseio.
-
-
     • O site precisa ser responsível para todos os dispositivos, notebooks, tablets, smartfones.
-
     • O site deve permitir que o usuário acesse as redes sociais e meios de contato da ONG selecionada.
-
-
     • O site deve verificar se há o cumprimento de todas as leis de adoções de animais para que seja uma adoção legal.
-
-
     • O site deve ser de fácil entendimento, didático e de fácil acesso.
-
-
     • O site deve estar disponível 24 horas, 7 dias por semana.
 
 
@@ -195,7 +182,7 @@ As ferramentas utilizadas foram o Figma, Teams, WhatsApp, Discord, GitHub, gerad
 
 ## Controle de Versão
 
-Nõ chegamos nessa parte ainda.
+Nossa versão se encontra na 0.1, pois começaremos a construção do site na proxima sprint.
 
 # **############## SPRINT 1 ACABA AQUI #############**
 
@@ -206,27 +193,16 @@ Nõ chegamos nessa parte ainda.
 
 ## Tecnologias Utilizadas
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Usaremos o visual Studio code para como interpretador do nosso código.
+Iremos utilizar o bootstrap como framework.
+Utilizaremos o figma para criação de workflow e wireframes.
+Usaremos repositório de fotos da plataforma freepik.
 
-> Descreva aqui qual(is) tecnologias você vai usar para resolver o seu
-> problema, ou seja, implementar a sua solução. Liste todas as
-> tecnologias envolvidas, linguagens a serem utilizadas, serviços web,
-> frameworks, bibliotecas, IDEs de desenvolvimento, e ferramentas.
-> Apresente também uma figura explicando como as tecnologias estão
-> relacionadas ou como uma interação do usuário com o sistema vai ser
-> conduzida, por onde ela passa até retornar uma resposta ao usuário.
-> 
-> Inclua os diagramas de User Flow, esboços criados pelo grupo
-> (stoyboards), além dos protótipos de telas (wireframes). Descreva cada
-> item textualmente comentando e complementando o que está apresentado
-> nas imagens.
+
 
 ## Arquitetura da solução
 
-......  COLOQUE AQUI O SEU TEXTO E O DIAGRAMA DE ARQUITETURA .......
-
-> Inclua um diagrama da solução e descreva os módulos e as tecnologias
-> que fazem parte da solução. Discorra sobre o diagrama.
+Não temos ainda essa parte.
 > 
 > **Exemplo do diagrama de Arquitetura**:
 > 
@@ -235,35 +211,15 @@ Nõ chegamos nessa parte ainda.
 
 # Avaliação da Aplicação
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Apresente os cenários de testes utilizados na realização dos testes da
-> sua aplicação. Escolha cenários de testes que demonstrem os requisitos
-> sendo satisfeitos.
+Ainda não entramos na etapa de desenvolvimento da plataforma.
 
 ## Plano de Testes
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Enumere quais cenários de testes foram selecionados para teste. Neste
-> tópico o grupo deve detalhar quais funcionalidades avaliadas, o grupo
-> de usuários que foi escolhido para participar do teste e as
-> ferramentas utilizadas.
-> 
-> **Links Úteis**:
-> - [IBM - Criação e Geração de Planos de Teste](https://www.ibm.com/developerworks/br/local/rational/criacao_geracao_planos_testes_software/index.html)
-> - [Práticas e Técnicas de Testes Ágeis](http://assiste.serpro.gov.br/serproagil/Apresenta/slides.pdf)
-> -  [Teste de Software: Conceitos e tipos de testes](https://blog.onedaytesting.com.br/teste-de-software/)
+Nosso plano é implementar o wireframe inicial e após concluido iniciaremos em parelo uma versão de novas ferramentas, como login e area do usuário (ongs);
 
 ## Ferramentas de Testes (Opcional)
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Comente sobre as ferramentas de testes utilizadas.
-> 
-> **Links Úteis**:
-> - [Ferramentas de Test para Java Script](https://geekflare.com/javascript-unit-testing/)
-> - [UX Tools](https://uxdesign.cc/ux-user-research-and-user-testing-tools-2d339d379dc7)
+Hospedaremos inicialmente no servidor replit para que seja possível o compartilhamento do mesmo ao cliente.
 
 ## Registros de Testes
 
