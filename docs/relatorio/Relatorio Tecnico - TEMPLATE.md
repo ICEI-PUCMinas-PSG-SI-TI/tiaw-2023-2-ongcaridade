@@ -1,4 +1,4 @@
-![phoca_thumb_l_image03_grd](https://github.com/ICEI-PUCMinas-PSG-SI-TI/tiaw-2023-2-ongcaridade/assets/146398384/9bb20287-873f-4f4f-85c9-9b036ebbd761)# Informações do Projeto
+# Informações do Projeto
 `TÍTULO DO PROJETO`  
 
 SearchPet
