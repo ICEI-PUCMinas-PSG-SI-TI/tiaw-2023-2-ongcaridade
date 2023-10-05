@@ -96,7 +96,7 @@ HISTÓRIA DE USUÁRIOS:
 
 ## Requisitos
 
-Requisitos Funcionais:
+# Requisitos Funcionais:
 
 
     • Ser possível usar a localização, para poder pesquisar o local.
@@ -123,15 +123,23 @@ Requisitos Funcionais:
     • A página inicial deve contar com ONGs mais procuradas.
 
 
- Requisitos não funcionais:
+ # Requisitos não funcionais:
+ 
     • Manutenção e atualização. (Manutenção diária)
+    
     • O site deve achar em até poucos segundos as ONGs disponíveis na localidade solicitada.
+    
     • O site deve contar com à acessibilidade para todas as idades, deve ser intuitivo e de fácil
 manuseio.
+
     • O site precisa ser responsível para todos os dispositivos, notebooks, tablets, smartfones.
+    
     • O site deve permitir que o usuário acesse as redes sociais e meios de contato da ONG selecionada.
+    
     • O site deve verificar se há o cumprimento de todas as leis de adoções de animais para que seja uma adoção legal.
+    
     • O site deve ser de fácil entendimento, didático e de fácil acesso.
+    
     • O site deve estar disponível 24 horas, 7 dias por semana.
 
 
