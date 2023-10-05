@@ -1,21 +1,23 @@
-# Informações do Projeto
+![phoca_thumb_l_image03_grd](https://github.com/ICEI-PUCMinas-PSG-SI-TI/tiaw-2023-2-ongcaridade/assets/146398384/9bb20287-873f-4f4f-85c9-9b036ebbd761)# Informações do Projeto
 `TÍTULO DO PROJETO`  
 
-......  COLOQUE AQUI O SEU TEXTO ......
+SearchPet
 
 `CURSO` 
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Análise e Desenvolvimento de Sistemas
 
 ## Participantes
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Os membros do grupo são:
 
-> Inclua a lista dos membros da equipe com seus nomes completos.
->
-> Os membros do grupo são: 
-> - Fulano da Silva
-> - Ciclano Albuquerque
+Ingrid Mendes Martins Correa
+Jonathan Faulkner Assis da Silva
+Ana Clara de Souza
+Yago Marques Freitas de Oliveira
+João Gabriel Montanari Pacheco
+Maria Luiza de Oliveira
+Gabriela almeida de oliveira lima
 
 # Estrutura do Documento
 
@@ -54,169 +56,178 @@
 
 # Introdução
 
+A utilização de softwares de interface web estão em um crescimento exponencial e o manuseio destes em múltiplas plataformas estão fazendo com que a gama de funcionalidades de websites também tem aumentado. As organizações não governamentais (ONG`s) também tem se modernizado e buscado novas formas de comunicação e organização conforme a internet tem revolucionado os meios de relacionamento a distância. 
+Captar e ofertar doações via internet, através de um site confiável, é facilitar o trabalho de doadores que buscam ONG`s que atuam em diversos setores e facilitam o trabalho publicitário das organizações em divulgar o seu trabalho.
+
 ## Problema
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Nesse momento você deve apresentar o problema que a sua aplicação deve
-> resolver. No entanto, não é a hora de comentar sobre a aplicação.
-> Descreva também o contexto em que essa aplicação será usada, se
-> houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de
-> fato existir, pois ainda não é a hora de apresentar requisitos
-> detalhados ou projetos.
->
-> Nesse momento, o grupo pode optar por fazer uso
-> de ferramentas como Design Thinking, que permite um olhar de ponta a
-> ponta para o problema.
->
-> **Links Úteis**:
-> - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
-> - [Matriz Certezas, Suposições e Dúvidas](https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655)
-> - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
+O site a ser desenvolvido envolve o translado de doações feitas por doadores às ONG`s cadastradas. Ao desenvolver essa ideia, deve-se prestar atenção na verificação do caráter das ONG`s recém cadastradas, fazer a manutenção da verificação para saber se continuam em condições normais de trabalho e se a forma de pagamento dos doadores é legítima.
 
 ## Objetivos
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Aqui você deve descrever os objetivos do trabalho indicando que o
-> objetivo geral é desenvolver um software para solucionar o problema
-> apresentado acima. Apresente também alguns (pelo menos 2) objetivos
-> específicos dependendo de onde você vai querer concentrar a sua
-> prática investigativa, ou como você vai aprofundar no seu trabalho.
-> 
-> **Links Úteis**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
+1- Facilitar a comunicação e viabilizar à distância a adoção de cães.
+2- Facilitar o trabalho de ONG`s na divulgação de pets disponíveis para adoção.
 
 ## Justificativa
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Descreva a importância ou a motivação para trabalhar com esta aplicação
-> que você escolheu. Indique as razões pelas quais você escolheu seus
-> objetivos específicos ou as razões para aprofundar em certos aspectos
-> do software.
-> 
-> O grupo de trabalho pode fazer uso de questionários, entrevistas e
-> dados estatísticos, que podem ser apresentados, com o objetivo de
-> esclarecer detalhes do problema que será abordado pelo grupo.
->
-> **Links Úteis**:
-> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
+Em teoria, as ONG`s trabalham fisicamente e dependem do contato pessoal com o cliente. Transformar o contato único físico em contato virtual diminui os requisitos que dificultam o contato, como transporte e disponibilidade de tempo.
 
 ## Público-Alvo
 
-......  COLOQUE AQUI O SEU TEXTO ......
+O público-alvo do no nosso site são pessoas de 18 à 60 anos, com uso recorrente da internet, que buscam ajudar a causa das ONG`s de animais adotando animais abandonados, doando materiais ou quantias e/ou oferecendo trabalho voluntário.
 
-> Descreva quem serão as pessoas que usarão a sua aplicação indicando os
-> diferentes perfis. O objetivo aqui não é definir quem serão os
-> clientes ou quais serão os papéis dos usuários na aplicação. A ideia
-> é, dentro do possível, conhecer um pouco mais sobre o perfil dos
-> usuários: conhecimentos prévios, relação com a tecnologia, relações
-> hierárquicas, etc.
->
-> Adicione informações sobre o público-alvo por meio de uma descrição
-> textual, ou diagramas de personas, mapa de stakeholders, ou como o
-> grupo achar mais conveniente.
-> 
-> **Links Úteis**:
-> - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
-> - [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/)
  
 # Especificações do Projeto
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Apresente uma visão geral do que será abordado nesta parte do
-> documento, enumerando as técnicas e/ou ferramentas utilizadas para
-> realizar a especificações do projeto
+SearchPet nasceu com o objetivo de suprir as necessidades das ONG’s e de facilitar a busca e acesso à informação para pessoas que possuem interesse em adotar e/ou apadrinhar. É tudo sobre fazer a diferença na vida dos animais e nas vidas das pessoas que os adotam.
 
 ## Personas e Mapas de Empatia
-
-......  COLOQUE AQUI O SEU TEXTO ......
-
-
-> Relacione as personas identificadas no seu projeto e os respectivos mapas de empatia. Lembre-se que 
-> você deve ser enumerar e descrever precisamente e de forma
-> personalizada todos os principais envolvidos com a solução almeja. 
-> 
-> Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina
-> e/ou nos seguintes links:
->
-> **Links Úteis**:
-> - [Persona x Público-alvo](https://flammo.com.br/blog/persona-e-publico-alvo-qual-a-diferenca/)
-> - [O que é persona?](https://resultadosdigitais.com.br/blog/persona-o-que-e/)
-> - [Rock Content](https://rockcontent.com/blog/personas/)
-> - [Hotmart](https://blog.hotmart.com/pt-br/como-criar-persona-negocio/)
-> - [Mapa de Empatia](https://resultadosdigitais.com.br/blog/mapa-da-empatia/)
-> - [Como fazer um mapa de empatia - Vídeo](https://www.youtube.com/watch?v=JlKHGpVoA2Y)
-> 
-> 
-> **Exemplo de Persona**
-> 
-> ![Exemplo de Persona](imaages/../images/persona.png)
-> 
-> Fonte: [Como criar uma persona para o seu negócio](https://raissaviegas.com.br/como-criar-uma-persona/)
+HISTÓRIA DE USUÁRIOS:
+PERSONAS
 
 
-## Histórias de Usuários
+PERSONA 1
+MULHER
+NOME
+Paula Andrade De Souza
+IDADE
+40 anos
+HOBBY
+Minha grande paixão é a corrida e caminhadas matinais. Acredito que começar o dia cedo me proporciona energia renovada e aumenta minha produtividade. Já completei maratonas ao redor da deslumbrante Lagoa da Pampulha, e sinto que ao fazer isso, estou inspirando as pessoas a adotarem um estilo de vida mais saudável.
+TRABALHO
+Pets, Gerente administrativo.
+PERSONALIDADE
+Sou uma apaixonada pela natureza, e meu trabalho frequentemente me coloca sob pressão, o que me leva a ficar estressada facilmente.
+SONHOS
+Desde a minha adolescência, eu costumava passear com meus pais pelo parque, acompanhada do meu fiel companheiro de quatro patas, o Tuq. Essas memórias sempre me emocionam e me inspiraram a buscar maneiras de retribuir. Minha paixão por ajudar e criar um ambiente acolhedor para os animais me levou a estudar veterinária.
+OBJETOS E LUGARES
+No meu dia a dia, utilizo o celular e o notebook para desempenhar minhas responsabilidades no trabalho, como a elaboração de relatórios financeiros. Também mantenho uma presença ativa nas redes sociais, onde criei um perfil para o meu amado pet, chamado Tuqizin. Adoro compartilhar fotos e vídeos dele, utilizando as tendências do momento, com o objetivo de gerar receita que posteriormente converto em doações para uma organização sem fins lucrativos que apoia animais necessitados.
+OBJETIVO CHAVE
+Objetivos Chave durante a Utilização do Serviço
 
-Com base na análise das personas forma identificadas as seguintes histórias de usuários:
+Essa pessoa busca, ao utilizar o serviço, encontrar organizações sem fins lucrativos que compartilhem sua paixão pela natureza e pelo bem-estar dos animais. Ela deseja contribuir de maneira significativa, seja com seu tempo, habilidades ou recursos, para causas que a tocam profundamente. Além disso, procura
 
-|EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
-|--------------------|------------------------------------|----------------------------------------|
-|Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
 
-> Apresente aqui as histórias de usuário que são relevantes para o
-> projeto de sua solução. As Histórias de Usuário consistem em uma
-> ferramenta poderosa para a compreensão e elicitação dos requisitos
-> funcionais e não funcionais da sua aplicação. Se possível, agrupe as
-> histórias de usuário por contexto, para facilitar consultas
-> recorrentes à essa parte do documento.
->
-> **Links Úteis**:
-> - [Histórias de usuários com exemplos e template](https://www.atlassian.com/br/agile/project-management/user-stories)
-> - [Como escrever boas histórias de usuário (User Stories)](https://medium.com/vertice/como-escrever-boas-users-stories-hist%C3%B3rias-de-usu%C3%A1rios-b29c75043fac)
+inspiração para manter um estilo de vida saudável e energético, enquanto motiva outras pessoas a adotarem hábitos semelhantes.
+
+Por que eles precisam deste serviço?
+
+Essa pessoa precisa deste serviço para encontrar um propósito mais profundo em sua vida, conectando-se com organizações alinhadas com seus valores e paixões. Além disso, ela busca uma plataforma que simplifique seu envolvimento com causas e projetos que a movem, permitindo-lhe ampliar seu impacto positivo, seja apoiando financeiramente ONGs ou inspirando outros a se juntarem à sua causa.
+COMO DEVEMOS TRATÁ-LA
+Como devemos tratá-la para que ela se sinta bem?
+
+É essencial respeitar sua paixão pela natureza e pelos animais, reconhecendo a importância desses valores em sua vida. Facilitar o acesso a organizações alinhadas com seus interesses e demonstrar apreço por suas contribuições, seja por meio de voluntariado ou doações, são maneiras de fazê-la sentir-se valorizada.
+
+Quais os tipos de comportamento que deixam essa pessoa feliz?
+
+Reconhecimento por seus esforços, a oportunidade de inspirar e ser inspirada, bem como o compartilhamento de experiências relacionadas à natureza, animais e bem-estar, são comportamentos que a deixam feliz.
+NUNCA DEVEMOS
+Nunca devemos ignorar seu amor pela natureza, pelos animais e pelo bem-estar. Também é crucial nunca subestimar a importância de seu envolvimento e contribuições para a causa.
+
+Que tipo de atitude ela não suporta?
+
+Ela não suporta a indiferença em relação a questões relacionadas à natureza, aos animais e ao bem-estar. A apatia e a falta de consideração por esses temas podem ser desencorajadoras para ela.
+
+O que deixa essa pessoa furiosa?
+
+A falta de integridade e transparência por parte de organizações que afirmam apoiar causas relacionadas à natureza e aos animais a deixaria furiosa, já que ela valoriza muito a autenticidade e a honestidade nas iniciativas que apoia.
+
+PERSONA 2
+HOMEM
+NOME
+Daniel Rocha
+IDADE
+28 anos
+HOBBY
+Daniel é um entusiasta da tecnologia e um ávido jogador de videogame. Ele passa grande parte do tempo livre jogando online com seus amigos e acompanhando as últimas tendências em tecnologia e eletrônicos.
+TRABALHO
+Desenvolvedor de Software
+PERSONALIDADE
+Um indivíduo extrovertido e sociável. Ele é conhecido por seu senso de humor e facilidade em fazer amigos. Sua personalidade é descontraída e otimista, e ele geralmente não se deixa abalar por situações estressantes.
+SONHOS
+Seu maior sonho é adotar um cachorro e criar um vínculo especial com um animal de estimação. Ele acredita que ter um cão o ajudará a equilibrar sua vida centrada na tecnologia com a necessidade de se conectar com a natureza e viver o momento presente.
+OBJETOS E LUGARES
+No meu dia a dia, utilizo meu smartphone e laptop principalmente para interagir com meus amigos e jogar videogames online.
+Também gosto de explorar lojas de eletrônicos em busca das últimas novidades tecnológicas. Quando se trata de locais, frequento parques locais e áreas de natureza para minhas atividades ao ar livre, e estou ansioso para encontrar um
+pet-friendly para passar mais tempo com meu futuro cachorro.
+OBJETIVO CHAVE
+Seu objetivo é criar uma rotina equilibrada que inclua tempo de qualidade com o cachorro, proporcionando-lhe uma vida feliz e ativa, vendo como uma oportunidade de fortalecer ainda mais seu relacionamento com amigos e familiares, por meio de atividades com o animal.
+COMO DEVEMOS TRATÁ-LO
+Como devemos tratá-lo para que ele se sinta bem?
+
+Deve ser tratado com entusiasmo compartilhando informações sobre cachorros que se adequem ao seu estilo de vida e personalidade animada.
+
+
+
+Quais os tipos de comportamento que deixam essa pessoa feliz?
+
+Encontrar um cachorro que combine com seu espírito enérgico e receber apoio na jornada de adoção o deixarão feliz.
+NUNCA DEVEMOS
+Nunca o sobrecarregue com informações técnicas ou tornem o processo de adoção excessivamente formal, pois valoriza a descontração e alegria na vida.
+
+Que tipo de atitude ele não suporta?
+
+Ele não suporta a negatividade e o cinismo. Valoriza a positividade, a alegria e a busca pela diversão na vida.
+
+
+O que deixa essa pessoa furiosa?
+
+Ele fica furioso quando encontra desonestidade e falta de transparência em organizações que afirmam apoiar causas relacionadas à natureza e aos animais. Valoriza muito a autenticidade e a honestidade nas iniciativas que apoia e fica indignado quando percebe que essas qualidades estão ausentes.
+
 
 ## Requisitos
 
-As tabelas que se seguem apresentam os requisitos funcionais e não funcionais que detalham o escopo do projeto.
-
-### Requisitos Funcionais
-
-|ID    | Descrição do Requisito  | Prioridade |
-|------|-----------------------------------------|----|
-|RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
-|RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
+Requisitos Funcionais:
 
 
-### Requisitos não Funcionais
+    • Ser possível usar a localização, para poder pesquisar o local.
 
-|ID     | Descrição do Requisito  |Prioridade |
-|-------|-------------------------|----|
-|RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA | 
-|RNF-002| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
 
-> Com base nas Histórias de Usuário, enumere os requisitos da sua
-> solução. Classifique esses requisitos em dois grupos:
->
-> - [Requisitos Funcionais (RF)](https://pt.wikipedia.org/wiki/Requisito_funcional):
->   correspondem a uma funcionalidade que deve estar presente na
->   plataforma (ex: cadastro de usuário).
->
-> - [Requisitos Não Funcionais (RNF)](https://pt.wikipedia.org/wiki/Requisito_n%C3%A3o_funcional):
->   correspondem a uma característica técnica, seja de usabilidade,
->   desempenho, confiabilidade, segurança ou outro (ex: suporte a
->   dispositivos iOS e Android).
->
-> Lembre-se que cada requisito deve corresponder à uma e somente uma
-> característica alvo da sua solução. Além disso, certifique-se de que
-> todos os aspectos capturados nas Histórias de Usuário foram cobertos.
-> 
-> **Links Úteis**:
-> 
-> - [O que são Requisitos Funcionais e Requisitos Não Funcionais?](https://codificar.com.br/requisitos-funcionais-nao-funcionais/)
-> - [O que são requisitos funcionais e requisitos não funcionais?](https://analisederequisitos.com.br/requisitos-funcionais-e-requisitos-nao-funcionais-o-que-sao/)
+    • Mostrar todas as ongs disponíveis na localidade.
+
+
+    • Ser possível realizar o cadastro da ONG por meio de um formulário. A ONG interessada coloca os dados da ONG, fotos e dados de cada animal disponível.
+
+
+    • Página seguinte com informações da ONG escolhida e animais disponíveis.
+
+
+    • Envio de formulário preenchido pelo usuário após a escolha do animal, por meio de um e- mail para ONG selecionada.
+
+
+    • Opção de filtragem após a pesquisa, o usuário poderá escolher qual tipo de animal ele gostaria de adotar, entre cachorro e gato.
+
+
+    • QRcode já nos detalhes da ONGs para o usuário realizar doações de quantia.
+
+
+    • A página inicial deve contar com ONGs mais procuradas.
+
+
+Requisitos não funcionais:
+    • Manutenção e atualização. (Manutenção diária)
+
+
+    • O site deve achar em até poucos segundos as ONGs disponíveis na localidade solicitada.
+
+
+    • O site deve contar com à acessibilidade para todas as idades, deve ser intuitivo e de fácil
+manuseio.
+
+
+    • O site precisa ser responsível para todos os dispositivos, notebooks, tablets, smartfones.
+
+    • O site deve permitir que o usuário acesse as redes sociais e meios de contato da ONG selecionada.
+
+
+    • O site deve verificar se há o cumprimento de todas as leis de adoções de animais para que seja uma adoção legal.
+
+
+    • O site deve ser de fácil entendimento, didático e de fácil acesso.
+
+
+    • O site deve estar disponível 24 horas, 7 dias por semana.
+
 
 
 ## Restrições
@@ -225,165 +236,47 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 |ID| Restrição                                             |
 |--|-------------------------------------------------------|
-|01| O projeto deverá ser entregue até o final do semestre |
-|02| Não pode ser desenvolvido um módulo de backend        |
-
-
-> Enumere as restrições à sua solução. Lembre-se de que as restrições
-> geralmente limitam a solução candidata.
-> 
-> **Links Úteis**:
-> - [O que são Requisitos Funcionais e Requisitos Não Funcionais?](https://codificar.com.br/requisitos-funcionais-nao-funcionais/)
-> - [O que são requisitos funcionais e requisitos não funcionais?](https://analisederequisitos.com.br/requisitos-funcionais-e-requisitos-nao-funcionais-o-que-sao/)
+|01| Não aceitamos ONG's que não passam por crivo de aprovação.
+|02| A ONG precisa ser regulamentada e permanecer ativa.
 
 
 # Projeto de Interface
 
-......  COLOQUE AQUI O SEU TEXTO DE INTRODUÇÃO ......
+A interface contem uma página inicial que tem o cadastre sua ONG, que vai ser para a ONG se cadasstrar, vai ter um Sobre nós que explicaremos sobre o nosso site. Tem uma barra de pesquisa que encontra as ONGs mais próximas através do endereço do usuário. Terá 3 principais ONGs (Cards) na tela principal.
 
-> Apresente as principais interfaces da solução. Discuta como 
-> foram elaboradas de forma a atender os requisitos funcionais, não
-> funcionais e histórias de usuário abordados nas [Especificações do
-> Projeto](#especificações-do-projeto).
+## User Flow e Wireframes
 
-## User Flow
+https://www.figma.com/file/CBoypX2eydZDyYI9pPaSe1/TIAW?type=whiteboard&node-id=0-1
+![WhatsApp Image 2023-10-04 at 22 25 20](https://github.com/ICEI-PUCMinas-PSG-SI-TI/tiaw-2023-2-ongcaridade/assets/146398384/7d6d9a2d-15f3-4e7e-aba1-616a74c3ce29)
+![WhatsApp Image 2023-10-04 at 22 25 05](https://github.com/ICEI-PUCMinas-PSG-SI-TI/tiaw-2023-2-ongcaridade/assets/146398384/2b340cbb-3b01-4ef8-bc74-6c41c7f162bf)
+![WhatsApp Image 2023-10-04 at 22 24 54](https://github.com/ICEI-PUCMinas-PSG-SI-TI/tiaw-2023-2-ongcaridade/assets/146398384/91a0caca-31b8-4e37-8e41-48658b7f173f)
+![WhatsApp Image 2023-10-04 at 22 24 40](https://github.com/ICEI-PUCMinas-PSG-SI-TI/tiaw-2023-2-ongcaridade/assets/146398384/01e2313a-c607-46b7-b8c0-6cde3391ba2f)
+![WhatsApp Image 2023-10-04 at 22 24 30](https://github.com/ICEI-PUCMinas-PSG-SI-TI/tiaw-2023-2-ongcaridade/assets/146398384/c021feac-029a-4d97-926c-b0a9494629be)
+![WhatsApp Image 2023-10-04 at 22 24 09](https://github.com/ICEI-PUCMinas-PSG-SI-TI/tiaw-2023-2-ongcaridade/assets/146398384/7013d3c5-1f7f-4f48-b58e-d594b416544a)
+![WhatsApp Image 2023-10-04 at 22 23 41](https://github.com/ICEI-PUCMinas-PSG-SI-TI/tiaw-2023-2-ongcaridade/assets/146398384/4278b6a9-814f-40dd-9bf8-c94a6a6b3eb0)
 
-......  INCLUA AQUI O DIAGRAMA COM O FLUXO DO USUÁRIO NA APLICAÇÃO ......
-
-> Fluxo de usuário (User Flow) é uma técnica que permite ao desenvolvedor
-> mapear todo fluxo de telas do site ou app. Essa técnica funciona
-> para alinhar os caminhos e as possíveis ações que o usuário pode
-> fazer junto com os membros de sua equipe.
->
-> **Links Úteis**:
-> - [User Flow: O Quê É e Como Fazer?](https://medium.com/7bits/fluxo-de-usu%C3%A1rio-user-flow-o-que-%C3%A9-como-fazer-79d965872534)
-> - [User Flow vs Site Maps](http://designr.com.br/sitemap-e-user-flow-quais-as-diferencas-e-quando-usar-cada-um/)
-> - [Top 25 User Flow Tools & Templates for Smooth](https://www.mockplus.com/blog/post/user-flow-tools)
->
-> **Exemplo**:
-> 
-> ![Exemplo de UserFlow](images/userflow.jpg)
-
-
-## Wireframes
-
-......  INCLUA AQUI OS WIREFRAMES DAS TELAS DA APLICAÇÃO COM UM BREVE DESCRITIVO ......
-
-> Wireframes são protótipos das telas da aplicação usados em design de interface para sugerir a
-> estrutura de um site web e seu relacionamentos entre suas
-> páginas. Um wireframe web é uma ilustração semelhante ao
-> layout de elementos fundamentais na interface.
-> 
-> **Links Úteis**:
-> - [Ferramentas de Wireframes](https://rockcontent.com/blog/wireframes/)
-> - [Figma](https://www.figma.com/)
-> - [Adobe XD](https://www.adobe.com/br/products/xd.html#scroll)
-> - [MarvelApp](https://marvelapp.com/developers/documentation/tutorials/)
-> 
-> **Exemplo**:
-> 
-> ![Exemplo de Wireframe](images/wireframe-example.png)
 
 
 # Metodologia
 
-......  COLOQUE AQUI O SEU TEXTO ......
+O grupo utilizou a metodologia Iterativa-Incremental. Foi realizada a divisão de tarefas em duplas, após reuniões de alinhamento. 
+As ferramentas utilizadas foram o Figma, Teams, WhatsApp, Discord, GitHub, gerador de imagens. 
+A gestão da configuração do GitHub foi realizada pela Ingrid e Ana Clara.
 
-> Nesta parte do documento, você deve apresentar a metodologia 
-> adotada pelo grupo, descrevendo o processo de trabalho baseado nas metodologias ágeis, 
-> a divisão de papéis e tarefas, as ferramentas empregadas e como foi realizada a
-> gestão de configuração do projeto via GitHub.
->
-> Coloque detalhes sobre o processo de Design Thinking e a implementação do Framework Scrum seguido
-> pelo grupo. O grupo poderá fazer uso de ferramentas on-line para acompanhar
-> o andamento do projeto, a execução das tarefas e o status de desenvolvimento
-> da solução.
-> 
-> **Links Úteis**:
-> - [Tutorial Trello](https://trello.com/b/8AygzjUA/tutorial-trello)
-> - [Gestão ágil de projetos com o Trello](https://www.youtube.com/watch?v=1o9BOMAKBRE)
-> - [Gerência de projetos - Trello com Scrum](https://www.youtube.com/watch?v=DHLA8X_ujwo)
-> - [Tutorial Slack](https://slack.com/intl/en-br/)
 
 ## Divisão de Papéis
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Apresente a divisão de papéis e tarefas entre os membros do grupo.
->
-> **Links Úteis**:
-> - [11 Passos Essenciais para Implantar Scrum no seu Projeto](https://mindmaster.com.br/scrum-11-passos/)
-> - [Scrum em 9 minutos](https://www.youtube.com/watch?v=XfvQWnRgxG0)
+O Design Thinking foi desenvolvido por TODOS os membros do grupo, sendo documentado pelo Johnathan e João. O wireframe ficou na responsabilidade do Yago e Maria Luísa. Os requisitos funcionais e não-funcionais foram levantados pela Ingrid e Nathielle. Enquanto a documentação e apresentação ficaram na responsabilidade da Ana Clara e Gabriela. A gestão da configuração do GitHub foi realizada pela Ingrid e Ana Clara.
 
 
 ## Ferramentas
 
-......  COLOQUE AQUI O SEU TEXTO - SIGA O EXEMPLO DA TABELA ABAIXO  ......
+As ferramentas utilizadas foram o Figma, Teams, WhatsApp, Discord, GitHub, gerador de imagens. 
 
-| Ambiente  | Plataforma              |Link de Acesso |
-|-----------|-------------------------|---------------|
-|Processo de Design Thinkgin  | Miro |  https://miro.com/XXXXXXX | 
-|Repositório de código | GitHub | https://github.com/XXXXXXX | 
-|Hospedagem do site | Heroku |  https://XXXXXXX.herokuapp.com | 
-|Protótipo Interativo | MavelApp ou Figma | https://figma.com/XXXXXXX | 
-
->
-> Liste as ferramentas empregadas no desenvolvimento do
-> projeto, justificando a escolha delas, sempre que possível.
-> 
-> As ferramentas empregadas no projeto são:
-> 
-> - Editor de código.
-> - Ferramentas de comunicação
-> - Ferramentas de diagramação
-> - Plataforma de hospedagem
-> 
-> O editor de código foi escolhido porque ele possui uma integração com o
-> sistema de versão. As ferramentas de comunicação utilizadas possuem
-> integração semelhante e por isso foram selecionadas. Por fim, para criar
-> diagramas utilizamos essa ferramenta por melhor captar as
-> necessidades da nossa solução.
-> 
-> **Links Úteis - Hospedagem**:
-> - [Getting Started with Heroku](https://devcenter.heroku.com/start)
-> - [Crie seu Site com o HostGator](https://www.hostgator.com.br/como-publicar-seu-site)
-> - [GoDady](https://br.godaddy.com/how-to)
-> - [GitHub Pages](https://pages.github.com/)
 
 ## Controle de Versão
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Discuta como a configuração do projeto foi feita na ferramenta de
-> versionamento escolhida. Exponha como a gerência de tags, merges,
-> commits e branchs é realizada. Discuta como a gerência de issues foi
-> realizada.
-> A ferramenta de controle de versão adotada no projeto foi o
-> [Git](https://git-scm.com/), sendo que o [Github](https://github.com)
-> foi utilizado para hospedagem do repositório `upstream`.
-> 
-> O projeto segue a seguinte convenção para o nome de branchs:
-> 
-> - `master`: versão estável já testada do software
-> - `unstable`: versão já testada do software, porém instável
-> - `testing`: versão em testes do software
-> - `dev`: versão de desenvolvimento do software
-> 
-> Quanto à gerência de issues, o projeto adota a seguinte convenção para
-> etiquetas:
-> 
-> - `bugfix`: uma funcionalidade encontra-se com problemas
-> - `enhancement`: uma funcionalidade precisa ser melhorada
-> - `feature`: uma nova funcionalidade precisa ser introduzida
->
-> **Links Úteis**:
-> - [Tutorial GitHub](https://guides.github.com/activities/hello-world/)
-> - [Git e Github](https://www.youtube.com/playlist?list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA)
-> - [5 Git Workflows & Branching Strategy to deliver better code](https://zepel.io/blog/5-git-workflows-to-improve-development/)
->
-> **Exemplo - GitHub Feature Branch Workflow**:
->
-> ![Exemplo de Wireframe](images/Github-Workflow.png)
+Nõ chegamos nessa parte ainda.
 
 # **############## SPRINT 1 ACABA AQUI #############**
 
