@@ -9,15 +9,15 @@ Análise e Desenvolvimento de Sistemas
 
 ## Participantes
 
-Os membros do grupo são:
+#Os membros do grupo são:
 
-Ingrid Mendes Martins Correa
-Jonathan Faulkner Assis da Silva
-Ana Clara de Souza
-Yago Marques Freitas de Oliveira
-João Gabriel Montanari Pacheco
-Maria Luiza de Oliveira
-Gabriela almeida de oliveira lima
+* Ingrid Mendes Martins Correa
+* Jonathan Faulkner Assis da Silva
+* Ana Clara de Souza
+* Yago Marques Freitas de Oliveira
+* João Gabriel Montanari Pacheco
+* Maria Luiza de Oliveira
+* Gabriela almeida de oliveira lima
 
 # Estrutura do Documento
 
@@ -83,96 +83,15 @@ SearchPet nasceu com o objetivo de suprir as necessidades das ONG’s e de facil
 
 ## Personas e Mapas de Empatia
 HISTÓRIA DE USUÁRIOS:
-PERSONAS
 
+# Persona 1
+![persona 1 parte 1](https://github.com/ICEI-PUCMinas-PSG-SI-TI/tiaw-2023-2-ongcaridade/assets/146226875/e848b0ff-8ac9-4d9f-a910-7906eeff03ee)
 
-PERSONA 1
-MULHER
-NOME
-Paula Andrade De Souza
-IDADE
-40 anos
-HOBBY
-Minha grande paixão é a corrida e caminhadas matinais. Acredito que começar o dia cedo me proporciona energia renovada e aumenta minha produtividade. Já completei maratonas ao redor da deslumbrante Lagoa da Pampulha, e sinto que ao fazer isso, estou inspirando as pessoas a adotarem um estilo de vida mais saudável.
-TRABALHO
-Pets, Gerente administrativo.
-PERSONALIDADE
-Sou uma apaixonada pela natureza, e meu trabalho frequentemente me coloca sob pressão, o que me leva a ficar estressada facilmente.
-SONHOS
-Desde a minha adolescência, eu costumava passear com meus pais pelo parque, acompanhada do meu fiel companheiro de quatro patas, o Tuq. Essas memórias sempre me emocionam e me inspiraram a buscar maneiras de retribuir. Minha paixão por ajudar e criar um ambiente acolhedor para os animais me levou a estudar veterinária.
-OBJETOS E LUGARES
-No meu dia a dia, utilizo o celular e o notebook para desempenhar minhas responsabilidades no trabalho, como a elaboração de relatórios financeiros. Também mantenho uma presença ativa nas redes sociais, onde criei um perfil para o meu amado pet, chamado Tuqizin. Adoro compartilhar fotos e vídeos dele, utilizando as tendências do momento, com o objetivo de gerar receita que posteriormente converto em doações para uma organização sem fins lucrativos que apoia animais necessitados.
-OBJETIVO CHAVE
-Objetivos Chave durante a Utilização do Serviço
+![persona 1 - parte 2](https://github.com/ICEI-PUCMinas-PSG-SI-TI/tiaw-2023-2-ongcaridade/assets/146226875/773a0684-011b-4ec2-991d-4d0d3323c437)
 
-Essa pessoa busca, ao utilizar o serviço, encontrar organizações sem fins lucrativos que compartilhem sua paixão pela natureza e pelo bem-estar dos animais. Ela deseja contribuir de maneira significativa, seja com seu tempo, habilidades ou recursos, para causas que a tocam profundamente. Além disso, procura
-
-
-inspiração para manter um estilo de vida saudável e energético, enquanto motiva outras pessoas a adotarem hábitos semelhantes.
-
-Por que eles precisam deste serviço?
-
-Essa pessoa precisa deste serviço para encontrar um propósito mais profundo em sua vida, conectando-se com organizações alinhadas com seus valores e paixões. Além disso, ela busca uma plataforma que simplifique seu envolvimento com causas e projetos que a movem, permitindo-lhe ampliar seu impacto positivo, seja apoiando financeiramente ONGs ou inspirando outros a se juntarem à sua causa.
-COMO DEVEMOS TRATÁ-LA
-Como devemos tratá-la para que ela se sinta bem?
-
-É essencial respeitar sua paixão pela natureza e pelos animais, reconhecendo a importância desses valores em sua vida. Facilitar o acesso a organizações alinhadas com seus interesses e demonstrar apreço por suas contribuições, seja por meio de voluntariado ou doações, são maneiras de fazê-la sentir-se valorizada.
-
-Quais os tipos de comportamento que deixam essa pessoa feliz?
-
-Reconhecimento por seus esforços, a oportunidade de inspirar e ser inspirada, bem como o compartilhamento de experiências relacionadas à natureza, animais e bem-estar, são comportamentos que a deixam feliz.
-NUNCA DEVEMOS
-Nunca devemos ignorar seu amor pela natureza, pelos animais e pelo bem-estar. Também é crucial nunca subestimar a importância de seu envolvimento e contribuições para a causa.
-
-Que tipo de atitude ela não suporta?
-
-Ela não suporta a indiferença em relação a questões relacionadas à natureza, aos animais e ao bem-estar. A apatia e a falta de consideração por esses temas podem ser desencorajadoras para ela.
-
-O que deixa essa pessoa furiosa?
-
-A falta de integridade e transparência por parte de organizações que afirmam apoiar causas relacionadas à natureza e aos animais a deixaria furiosa, já que ela valoriza muito a autenticidade e a honestidade nas iniciativas que apoia.
-
-PERSONA 2
-HOMEM
-NOME
-Daniel Rocha
-IDADE
-28 anos
-HOBBY
-Daniel é um entusiasta da tecnologia e um ávido jogador de videogame. Ele passa grande parte do tempo livre jogando online com seus amigos e acompanhando as últimas tendências em tecnologia e eletrônicos.
-TRABALHO
-Desenvolvedor de Software
-PERSONALIDADE
-Um indivíduo extrovertido e sociável. Ele é conhecido por seu senso de humor e facilidade em fazer amigos. Sua personalidade é descontraída e otimista, e ele geralmente não se deixa abalar por situações estressantes.
-SONHOS
-Seu maior sonho é adotar um cachorro e criar um vínculo especial com um animal de estimação. Ele acredita que ter um cão o ajudará a equilibrar sua vida centrada na tecnologia com a necessidade de se conectar com a natureza e viver o momento presente.
-OBJETOS E LUGARES
-No meu dia a dia, utilizo meu smartphone e laptop principalmente para interagir com meus amigos e jogar videogames online.
-Também gosto de explorar lojas de eletrônicos em busca das últimas novidades tecnológicas. Quando se trata de locais, frequento parques locais e áreas de natureza para minhas atividades ao ar livre, e estou ansioso para encontrar um
-pet-friendly para passar mais tempo com meu futuro cachorro.
-OBJETIVO CHAVE
-Seu objetivo é criar uma rotina equilibrada que inclua tempo de qualidade com o cachorro, proporcionando-lhe uma vida feliz e ativa, vendo como uma oportunidade de fortalecer ainda mais seu relacionamento com amigos e familiares, por meio de atividades com o animal.
-COMO DEVEMOS TRATÁ-LO
-Como devemos tratá-lo para que ele se sinta bem?
-
-Deve ser tratado com entusiasmo compartilhando informações sobre cachorros que se adequem ao seu estilo de vida e personalidade animada.
-
-
-
-Quais os tipos de comportamento que deixam essa pessoa feliz?
-
-Encontrar um cachorro que combine com seu espírito enérgico e receber apoio na jornada de adoção o deixarão feliz.
-NUNCA DEVEMOS
-Nunca o sobrecarregue com informações técnicas ou tornem o processo de adoção excessivamente formal, pois valoriza a descontração e alegria na vida.
-
-Que tipo de atitude ele não suporta?
-
-Ele não suporta a negatividade e o cinismo. Valoriza a positividade, a alegria e a busca pela diversão na vida.
-
-
-O que deixa essa pessoa furiosa?
-
-Ele fica furioso quando encontra desonestidade e falta de transparência em organizações que afirmam apoiar causas relacionadas à natureza e aos animais. Valoriza muito a autenticidade e a honestidade nas iniciativas que apoia e fica indignado quando percebe que essas qualidades estão ausentes.
+# Persona 1
+![persona 2 - parte 1](https://github.com/ICEI-PUCMinas-PSG-SI-TI/tiaw-2023-2-ongcaridade/assets/146226875/65bef400-8a64-4bbc-8fc7-9cd26ebbd0b0)
+![persona 2 - parte 2](https://github.com/ICEI-PUCMinas-PSG-SI-TI/tiaw-2023-2-ongcaridade/assets/146226875/ea9f5e88-c0b8-49d8-b5a7-1050c7773c57)
 
 
 ## Requisitos
@@ -204,7 +123,7 @@ Requisitos Funcionais:
     • A página inicial deve contar com ONGs mais procuradas.
 
 
-Requisitos não funcionais:
+## Requisitos não funcionais:
     • Manutenção e atualização. (Manutenção diária)
 
 
