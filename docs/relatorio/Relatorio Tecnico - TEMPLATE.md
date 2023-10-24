@@ -17,6 +17,7 @@ Análise e Desenvolvimento de Sistemas
 * Yago Marques Freitas de Oliveira
 * João Gabriel Montanari Pacheco
 * Maria Luiza de Oliveira
+* Nathielle Guimarães de Lima
 * Gabriela almeida de oliveira lima
 
 # Estrutura do Documento
