@@ -181,7 +181,7 @@ A gestão da configuração do GitHub foi realizada pela Ingrid e Ana Clara.
 
 ## Divisão de Papéis
 
-O Design Thinking foi desenvolvido por TODOS os membros do grupo, sendo documentado pelo Johnathan e João. O wireframe ficou na responsabilidade do Yago e Maria Luísa. Os requisitos funcionais e não-funcionais foram levantados pela Ingrid e Nathielle. Enquanto a documentação e apresentação ficaram na responsabilidade da Ana Clara e Gabriela. A gestão da configuração do GitHub foi realizada pela Ingrid e Ana Clara.
+O Design Thinking foi desenvolvido por TODOS os membros do grupo, sendo documentado pelo Johnathan e João. O wireframe ficou na responsabilidade do Yago e Maria Luiza. Os requisitos funcionais e não-funcionais foram levantados pela Ingrid e Nathielle. Enquanto a documentação e apresentação ficaram na responsabilidade da Ana Clara e Gabriela. A gestão da configuração do GitHub foi realizada pela Ingrid e Ana Clara.
 
 
 ## Ferramentas
@@ -204,7 +204,7 @@ Nossa versão se encontra na 0.1, pois começaremos a construção do site na pr
 
 Usaremos o visual Studio code para como interpretador do nosso código.
 Iremos utilizar o bootstrap como framework.
-Utilizaremos o figma para criação de workflow e wireframes.
+Utilizamos o figma para criação de workflow e wireframes.
 Usaremos repositório de fotos da plataforma freepik.
 
 
